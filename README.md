@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Zac
 - 👀 I’m interested in Ai and Machine learning Programming and Robotics
-- 🌱 I’m currently learning programming at Suny Buffalo
+- 🌱 I’m currently learning programming at The University at Buffalo
 - 💞️ I’m looking to collaborate on anything really im just trying to learn as much as I can
 - 📫 How to reach me 
-        sngerzachay@gmail.com
+        sangerzachay@gmail.com
         
 
 <!---
